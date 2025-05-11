@@ -1,0 +1,2 @@
+Średni Błąd: -0.0150
+Odchylenie Standardowe Błędu: 0.3023

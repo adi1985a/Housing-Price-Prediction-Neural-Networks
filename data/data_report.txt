@@ -1,0 +1,16 @@
+Podsumowanie danych:
+           latitude     longitude         floor  ...            sq          year         price
+count  23525.000000  23525.000000  23525.000000  ...  2.352500e+04  23525.000000  2.352500e+04
+mean      51.370233     19.852109      2.789373  ...  1.019828e+02   2000.566589  6.120740e+05
+std        1.101307      1.450555      2.443594  ...  6.566788e+03     48.411341  3.369557e+05
+min       49.933056      4.204796      0.000000  ...  8.800000e+00     70.000000  5.000000e+03
+25%       50.066037     19.916563      1.000000  ...  4.200000e+01   1985.000000  4.100000e+05
+50%       52.193987     19.999330      2.000000  ...  5.350000e+01   2019.000000  5.196000e+05
+75%       52.270489     20.992796      4.000000  ...  6.806000e+01   2021.000000  6.950000e+05
+max       54.435238     30.319403     10.000000  ...  1.007185e+06   2980.000000  2.720403e+06
+
+[8 rows x 7 columns]
+
+Mapa korelacji zapisana jako 'correlation_heatmap.png'.
+Dane po augmentacji zapisane jako 'train_augmented.npy' i 'train_labels_augmented.npy'.
+Losowe probki zapisane w 'random_samples.csv'.

@@ -1,0 +1,3 @@
+Mean Squared Error (MSE): 0.0916
+Mean Absolute Error (MAE): 0.0627
+R^2 Score: -4.8215
