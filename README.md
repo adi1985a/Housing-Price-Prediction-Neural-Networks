@@ -1,12 +1,13 @@
 # 🏠 Housing Price Prediction with Neural Networks
  
-*Predict property prices in Polish cities using neural networks*
+This project builds, trains, and evaluates a neural network to predict housing prices in Polish cities based on features such as location, floor, number of rooms, and more. The model leverages regression techniques to accurately estimate property prices.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
-[![Platform: Any](https://img.shields.io/badge/Platform-Any-lightgrey.svg)](https://www.python.org/downloads/)
+![Python](https://img.shields.io/badge/Language-Python-blue.svg)  
+![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange.svg)  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+![Platform: Cross-platform](https://img.shields.io/badge/Platform-Cross--platform-lightgrey.svg)
 
-## Table of Contents
+## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Dataset Description](#dataset-description)
@@ -22,17 +23,17 @@
 - [License](#license)
 - [Author](#author)
 
-## Overview
+## 📄 Overview
 This project develops a neural network to predict housing prices in Polish cities, leveraging features such as location, floor, number of rooms, and property size. Built with TensorFlow, the model uses regression techniques to deliver accurate price estimates, making it a valuable tool for real estate analysis. The project includes data preprocessing, model training, evaluation, and visualization of results, all implemented in Python.
 
-## Features
+## ✨ Features
 - **🔍 Accurate Predictions**: Uses a neural network for precise housing price regression.
 - **📊 Data Processing**: Handles geographic, structural, and temporal property features.
 - **🛠️ Modular Scripts**: Separate scripts for preprocessing, model building, training, and evaluation.
 - **📈 Visualization**: Generates scatter plots comparing true vs. predicted prices.
 - **💾 Output Storage**: Saves predictions and evaluation metrics for further analysis.
 
-## Dataset Description
+## 📊 Dataset Description
 The dataset includes housing data from Polish cities with the following features:
 - **latitude**: Geographic latitude of the property.
 - **longitude**: Geographic longitude of the property.
@@ -44,14 +45,9 @@ The dataset includes housing data from Polish cities with the following features
 
 The dataset is provided as `housing_data.csv` and is processed into NumPy arrays for training and testing.
 
-## Screenshots
-*Coming soon!*
-
-## Project Structure
-
 ---
 
-## **Project Structure**
+##  🗂️ **Project Structure**
 
 ```plaintext
 .
@@ -82,7 +78,7 @@ The dataset is provided as `housing_data.csv` and is processed into NumPy arrays
 
 ---
 
-## **Installation and Dependencies**
+## 🛠 **Installation and Dependencies**
 
 ### **1. Clone the Repository**
 ```bash
@@ -98,7 +94,7 @@ pip install numpy pandas scikit-learn tensorflow matplotlib
 
 ---
 
-## **Running the Project**
+## 💡 **Running the Project**
 
 ### **1. Data Preprocessing**
 Preprocess the dataset and save the processed data:
@@ -126,7 +122,7 @@ python scripts/evaluate_model.py
 
 ---
 
-## **Model Description**
+## 🤖 **Model Description**
 
 The neural network architecture is designed for regression and consists of:
 - **Input Layer:** 6 input features.
@@ -139,7 +135,7 @@ The neural network architecture is designed for regression and consists of:
 
 ---
 
-## **Results and Evaluation**
+## ▶️ **Results and Evaluation**
 
 ### **Evaluation Metrics**
 - **Mean Squared Error (MSE):** Quantifies the average squared difference between predicted and true prices.
@@ -153,10 +149,26 @@ The predicted and true prices are saved as a CSV file (`predictions.csv`) in the
 
 ---
 
-## **Notes**
+## 📋 **Notes**
 
 - Ensure the dataset is correctly formatted and saved as `housing_data.csv` in the project directory.
 - If you encounter encoding issues, use the `latin1` encoding when loading the dataset.
 
 ---
 
+## 📸 Screenshots
+
+📷 *Coming soon!*  
+
+---
+
+## 📃 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and share it freely.
+
+---
+
+## 👨‍💻 Author  
+**Adrian Leśniak**  
+Software Developer
