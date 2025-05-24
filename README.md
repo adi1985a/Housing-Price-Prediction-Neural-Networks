@@ -219,7 +219,5 @@ See `LICENSE` file (if included) or visit [https://opensource.org/licenses/MIT](
 **Adrian Leśniak**
 _Software Developer & AI Enthusiast_
 
-(Feel free to add links to your GitHub, LinkedIn, or personal website here)
-
 ---
 🚀 _Building intelligent solutions for a data-driven world._
