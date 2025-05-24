@@ -1,6 +1,5 @@
 # 🏠 Housing Price Prediction with Neural Networks
-
-![Housing Price Prediction](https://via.placeholder.com/800x200.png?text=Housing+Price+Prediction)  
+ 
 *Predict property prices in Polish cities using neural networks*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
