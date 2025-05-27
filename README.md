@@ -53,26 +53,37 @@ The core dataset, `housing_data.csv`, contains detailed housing information for 
 
 This raw data is meticulously preprocessed and transformed into NumPy arrays (`train.npy`, `test.npy`, etc.) suitable for training and testing the neural network model.
 
-## 🖼️ Screenshots
+## 📸 Screenshots Gallery
 
-*Click on thumbnail to see full size image.*
+*Click on a thumbnail to view the full-size image.*
 
-|                    |                    |                    |
-| :----------------: | :----------------: | :----------------: |
-| [![Screenshot 1](screenshots/Image1_thumb.jpg?raw=true)](screenshots/Image1.jpg?raw=true) | [![Screenshot 2](screenshots/Image2_thumb.jpg?raw=true)](screenshots/Image2.jpg?raw=true) | [![Screenshot 3](screenshots/Image3_thumb.jpg?raw=true)](screenshots/Image3.jpg?raw=true) |
-| **Image 1**        | **Image 2**        | **Image 3**        |
-| [![Screenshot 4](screenshots/Image4_thumb.jpg?raw=true)](screenshots/Image4.jpg?raw=true) | [![Screenshot 5](screenshots/Image5_thumb.jpg?raw=true)](screenshots/Image5.jpg?raw=true) | [![Screenshot 6](screenshots/Image6_thumb.jpg?raw=true)](screenshots/Image6.jpg?raw=true) |
-| **Image 4**        | **Image 5**        | **Image 6**        |
-| [![Screenshot 7](screenshots/Image7_thumb.jpg?raw=true)](screenshots/Image7.jpg?raw=true) | [![Screenshot 8](screenshots/Image8_thumb.jpg?raw=true)](screenshots/Image8.jpg?raw=true) | [![Screenshot 9](screenshots/Image9_thumb.jpg?raw=true)](screenshots/Image9.jpg?raw=true) |
-| **Image 7**        | **Image 8**        | **Image 9**        |
-| [![Screenshot 10](screenshots/Image10_thumb.jpg?raw=true)](screenshots/Image10.jpg?raw=true) | [![Screenshot 11](screenshots/Image11_thumb.jpg?raw=true)](screenshots/Image11.jpg?raw=true) | [![Screenshot 12](screenshots/Image12_thumb.jpg?raw=true)](screenshots/Image12.jpg?raw=true) |
-| **Image 10**       | **Image 11**       | **Image 12**       |
-| [![Screenshot 13](screenshots/Image13_thumb.jpg?raw=true)](screenshots/Image13.jpg?raw=true) | [![Screenshot 14](screenshots/Image14_thumb.jpg?raw=true)](screenshots/Image14.jpg?raw=true) | [![Screenshot 15](screenshots/Image15_thumb.jpg?raw=true)](screenshots/Image15.jpg?raw=true) |
-| **Image 13**       | **Image 14**       | **Image 15**       |
-| [![Screenshot 16](screenshots/Image16_thumb.jpg?raw=true)](screenshots/Image16.jpg?raw=true) | [![Screenshot 17](screenshots/Image17_thumb.jpg?raw=true)](screenshots/Image17.jpg?raw=true) | [![Screenshot 18](screenshots/Image18_thumb.jpg?raw=true)](screenshots/Image18.jpg?raw=true) |
-| **Image 16**       | **Image 17**       | **Image 18**       |
-| [![Screenshot 19](screenshots/Image19_thumb.jpg?raw=true)](screenshots/Image19.jpg?raw=true) |                    |                    |
-| **Image 19**       |                    |                    |
+| ![1](screenshots/Image1_thumb.jpg?raw=true) <br> **Screenshot 1** | ![2](screenshots/Image2_thumb.jpg?raw=true) <br> **Screenshot 2** | ![3](screenshots/Image3_thumb.jpg?raw=true) <br> **Screenshot 3** |
+|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
+| [🔍 View Full](screenshots/Image1.jpg?raw=true) | [🔍 View Full](screenshots/Image2.jpg?raw=true) | [🔍 View Full](screenshots/Image3.jpg?raw=true) |
+
+| ![4](screenshots/Image4_thumb.jpg?raw=true) <br> **Screenshot 4** | ![5](screenshots/Image5_thumb.jpg?raw=true) <br> **Screenshot 5** | ![6](screenshots/Image6_thumb.jpg?raw=true) <br> **Screenshot 6** |
+|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
+| [🔍 View Full](screenshots/Image4.jpg?raw=true) | [🔍 View Full](screenshots/Image5.jpg?raw=true) | [🔍 View Full](screenshots/Image6.jpg?raw=true) |
+
+| ![7](screenshots/Image7_thumb.jpg?raw=true) <br> **Screenshot 7** | ![8](screenshots/Image8_thumb.jpg?raw=true) <br> **Screenshot 8** | ![9](screenshots/Image9_thumb.jpg?raw=true) <br> **Screenshot 9** |
+|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
+| [🔍 View Full](screenshots/Image7.jpg?raw=true) | [🔍 View Full](screenshots/Image8.jpg?raw=true) | [🔍 View Full](screenshots/Image9.jpg?raw=true) |
+
+| ![10](screenshots/Image10_thumb.jpg?raw=true) <br> **Screenshot 10** | ![11](screenshots/Image11_thumb.jpg?raw=true) <br> **Screenshot 11** | ![12](screenshots/Image12_thumb.jpg?raw=true) <br> **Screenshot 12** |
+|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
+| [🔍 View Full](screenshots/Image10.jpg?raw=true) | [🔍 View Full](screenshots/Image11.jpg?raw=true) | [🔍 View Full](screenshots/Image12.jpg?raw=true) |
+
+| ![13](screenshots/Image13_thumb.jpg?raw=true) <br> **Screenshot 13** | ![14](screenshots/Image14_thumb.jpg?raw=true) <br> **Screenshot 14** | ![15](screenshots/Image15_thumb.jpg?raw=true) <br> **Screenshot 15** |
+|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
+| [🔍 View Full](screenshots/Image13.jpg?raw=true) | [🔍 View Full](screenshots/Image14.jpg?raw=true) | [🔍 View Full](screenshots/Image15.jpg?raw=true) |
+
+| ![16](screenshots/Image16_thumb.jpg?raw=true) <br> **Screenshot 16** | ![17](screenshots/Image17_thumb.jpg?raw=true) <br> **Screenshot 17** | ![18](screenshots/Image18_thumb.jpg?raw=true) <br> **Screenshot 18** |
+|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
+| [🔍 View Full](screenshots/Image16.jpg?raw=true) | [🔍 View Full](screenshots/Image17.jpg?raw=true) | [🔍 View Full](screenshots/Image18.jpg?raw=true) |
+
+| ![19](screenshots/Image19_thumb.jpg?raw=true) <br> **Screenshot 19** |  |  |
+|:------------------------------------------------------------------:|:--:|:--:|
+| [🔍 View Full](screenshots/Image19.jpg?raw=true) |  |  |
 
 
 ## 🗂️ Project Structure
