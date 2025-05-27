@@ -26,6 +26,12 @@ _Leveraging TensorFlow to accurately estimate property prices in Polish cities b
 13. [License](#-license)
 14. [Author](#-author)
 
+## 🎞️ Demo
+
+<p align="center">
+  <img src="screenshots/1.gif" width="700" alt="python demo">
+</p>
+
 ## 📄 Overview
 
 This project presents an advanced **Neural Network model for predicting housing prices** within Polish cities. By analyzing a comprehensive set of features—including geographical location (latitude, longitude), floor level, number of rooms, property size (square meters), and year of construction—the model employs sophisticated regression techniques to deliver accurate property price estimations. Developed using **Python** and powered by **TensorFlow**, this project encompasses the entire machine learning pipeline: from meticulous data preprocessing and model construction to rigorous training, thorough evaluation, and insightful visualization of the prediction results. It serves as a powerful tool for real estate market analysis and data-driven decision-making.
