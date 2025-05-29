@@ -63,25 +63,25 @@ This raw data is meticulously preprocessed and transformed into NumPy arrays (`t
 
 *Click on a thumbnail to view the full-size image.*
 
-| ![1](outputs/correlation_heatmap_thumb.jpg?raw=true) <br> **Screenshot 1** | ![2](outputs/floor_histogram_thumb.jpg?raw=true) <br> **Screenshot 2** | ![3](outputs/latitude_histogram_thumb.jpg?raw=true) <br> **Screenshot 3** |
+| ![1](outputs/correlation_heatmap_thumb.png?raw=true) <br> **Screenshot 1** | ![2](outputs/floor_histogram_thumb.png?raw=true) <br> **Screenshot 2** | ![3](outputs/latitude_histogram_thumb.png?raw=true) <br> **Screenshot 3** |
 |:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
-| [🔍 View Full](outputs/correlation_heatmap.jpg?raw=true) | [🔍 View Full](outputs/floor_histogram.jpg?raw=true) | [🔍 View Full](outputs/latitude_histogram.jpg?raw=true) |
+| [🔍 View Full](outputs/correlation_heatmap.png?raw=true) | [🔍 View Full](outputs/floor_histogram.png?raw=true) | [🔍 View Full](outputs/latitude_histogram.png?raw=true) |
 
-| ![4](outputs/longitude_histogram_thumb.jpg?raw=true) <br> **Screenshot 4** | ![5](outputs/price_distribution_after_outliers_thumb.jpg?raw=true) <br> **Screenshot 5** | ![6](outputs/price_distribution_before_outliers_thumb.jpg?raw=true) <br> **Screenshot 6** |
+| ![4](outputs/longitude_histogram_thumb.png?raw=true) <br> **Screenshot 4** | ![5](outputs/price_distribution_after_outliers_thumb.png?raw=true) <br> **Screenshot 5** | ![6](outputs/price_distribution_before_outliers_thumb.png?raw=true) <br> **Screenshot 6** |
 |:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
-| [🔍 View Full](outputs/longitude_histogram.jpg?raw=true) | [🔍 View Full](outputs/price_distribution_after_outliers.jpg?raw=true) | [🔍 View Full](outputs/price_distribution_before_outliers.jpg?raw=true) |
+| [🔍 View Full](outputs/longitude_histogram.png?raw=true) | [🔍 View Full](outputs/price_distribution_after_outliers.png?raw=true) | [🔍 View Full](outputs/price_distribution_before_outliers.png?raw=true) |
 
-| ![7](outputs/rooms_histogram_thumb.jpg?raw=true) <br> **Screenshot 7** | ![8](outputs/sq_histogram_thumb.jpg?raw=true) <br> **Screenshot 8** | ![9](outputs/year_histogram_thumb.jpg?raw=true) <br> **Screenshot 9** |
+| ![7](outputs/rooms_histogram_thumb.png?raw=true) <br> **Screenshot 7** | ![8](outputs/sq_histogram_thumb.png?raw=true) <br> **Screenshot 8** | ![9](outputs/year_histogram_thumb.png?raw=true) <br> **Screenshot 9** |
 |:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
-| [🔍 View Full](outputs/rooms_histogram.jpg?raw=true) | [🔍 View Full](outputs/sq_histogram.jpg?raw=true) | [🔍 View Full](outputs/year_histogram.jpg?raw=true) |
+| [🔍 View Full](outputs/rooms_histogram.png?raw=true) | [🔍 View Full](outputs/sq_histogram.png?raw=true) | [🔍 View Full](outputs/year_histogram.png?raw=true) |
 
-| ![10](outputs/hyperparameter_tuning_plot_thumb.jpg?raw=true) <br> **Screenshot 10** | ![11](outputs/epoch_analysis_plot_thumb.jpg?raw=true) <br> **Screenshot 11** | ![12](outputs/learning_curve_thumb.jpg?raw=true) <br> **Screenshot 12** |
+| ![10](outputs/hyperparameter_tuning_plot_thumb.png?raw=true) <br> **Screenshot 10** | ![11](outputs/epoch_analysis_plot_thumb.png?raw=true) <br> **Screenshot 11** | ![12](outputs/learning_curve_thumb.png?raw=true) <br> **Screenshot 12** |
 |:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
-| [🔍 View Full](outputs/hyperparameter_tuning_plot.jpg?raw=true) | [🔍 View Full](outputs/epoch_analysis_plot.jpg?raw=true) | [🔍 View Full](outputs/learning_curve.jpg?raw=true) |
+| [🔍 View Full](outputs/hyperparameter_tuning_plot.png?raw=true) | [🔍 View Full](outputs/epoch_analysis_plot.png?raw=true) | [🔍 View Full](outputs/learning_curve.png?raw=true) |
 
-| ![13](outputs/true_vs_predicted_thumb.jpg?raw=true) <br> **Screenshot 13** | ![14](outputs/error_distribution_thumb.jpg?raw=true) <br> **Screenshot 14** | 
+| ![13](outputs/true_vs_predicted_thumb.png?raw=true) <br> **Screenshot 13** | ![14](outputs/error_distribution_thumb.png?raw=true) <br> **Screenshot 14** | 
 |:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
-| [🔍 View Full](outputs/true_vs_predicted.jpg?raw=true) | [🔍 View Full](outputs/error_distribution.jpg?raw=true) |
+| [🔍 View Full](outputs/true_vs_predicted.png?raw=true) | [🔍 View Full](outputs/error_distribution.png?raw=true) |
 
 |  |  |
 
