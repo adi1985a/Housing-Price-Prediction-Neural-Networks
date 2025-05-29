@@ -28,9 +28,9 @@ _Leveraging TensorFlow to accurately estimate property prices in Polish cities b
 
 ## 🎞️ Demo
 
-<p align="center">
-  <img src="screenshots/1.gif" width="700" alt="python demo">
-</p>
+![Demo GIF](screenshots/1.gif)
+
+---
 
 ## 📄 Overview
 
@@ -63,33 +63,27 @@ This raw data is meticulously preprocessed and transformed into NumPy arrays (`t
 
 *Click on a thumbnail to view the full-size image.*
 
-| ![1](screenshots/Image1_thumb.jpg?raw=true) <br> **Screenshot 1** | ![2](screenshots/Image2_thumb.jpg?raw=true) <br> **Screenshot 2** | ![3](screenshots/Image3_thumb.jpg?raw=true) <br> **Screenshot 3** |
+| ![1](outputs/correlation_heatmap_thumb.jpg?raw=true) <br> **Screenshot 1** | ![2](outputs/floor_histogram_thumb.jpg?raw=true) <br> **Screenshot 2** | ![3](outputs/latitude_histogram_thumb.jpg?raw=true) <br> **Screenshot 3** |
 |:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
-| [🔍 View Full](screenshots/Image1.jpg?raw=true) | [🔍 View Full](screenshots/Image2.jpg?raw=true) | [🔍 View Full](screenshots/Image3.jpg?raw=true) |
+| [🔍 View Full](outputs/correlation_heatmap.jpg?raw=true) | [🔍 View Full](outputs/floor_histogram.jpg?raw=true) | [🔍 View Full](outputs/latitude_histogram.jpg?raw=true) |
 
-| ![4](screenshots/Image4_thumb.jpg?raw=true) <br> **Screenshot 4** | ![5](screenshots/Image5_thumb.jpg?raw=true) <br> **Screenshot 5** | ![6](screenshots/Image6_thumb.jpg?raw=true) <br> **Screenshot 6** |
+| ![4](outputs/longitude_histogram_thumb.jpg?raw=true) <br> **Screenshot 4** | ![5](outputs/price_distribution_after_outliers_thumb.jpg?raw=true) <br> **Screenshot 5** | ![6](outputs/price_distribution_before_outliers_thumb.jpg?raw=true) <br> **Screenshot 6** |
 |:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
-| [🔍 View Full](screenshots/Image4.jpg?raw=true) | [🔍 View Full](screenshots/Image5.jpg?raw=true) | [🔍 View Full](screenshots/Image6.jpg?raw=true) |
+| [🔍 View Full](outputs/longitude_histogram.jpg?raw=true) | [🔍 View Full](outputs/price_distribution_after_outliers.jpg?raw=true) | [🔍 View Full](outputs/price_distribution_before_outliers.jpg?raw=true) |
 
-| ![7](screenshots/Image7_thumb.jpg?raw=true) <br> **Screenshot 7** | ![8](screenshots/Image8_thumb.jpg?raw=true) <br> **Screenshot 8** | ![9](screenshots/Image9_thumb.jpg?raw=true) <br> **Screenshot 9** |
+| ![7](outputs/rooms_histogram_thumb.jpg?raw=true) <br> **Screenshot 7** | ![8](outputs/sq_histogram_thumb.jpg?raw=true) <br> **Screenshot 8** | ![9](outputs/year_histogram_thumb.jpg?raw=true) <br> **Screenshot 9** |
 |:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
-| [🔍 View Full](screenshots/Image7.jpg?raw=true) | [🔍 View Full](screenshots/Image8.jpg?raw=true) | [🔍 View Full](screenshots/Image9.jpg?raw=true) |
+| [🔍 View Full](outputs/rooms_histogram.jpg?raw=true) | [🔍 View Full](outputs/sq_histogram.jpg?raw=true) | [🔍 View Full](outputs/year_histogram.jpg?raw=true) |
 
-| ![10](screenshots/Image10_thumb.jpg?raw=true) <br> **Screenshot 10** | ![11](screenshots/Image11_thumb.jpg?raw=true) <br> **Screenshot 11** | ![12](screenshots/Image12_thumb.jpg?raw=true) <br> **Screenshot 12** |
+| ![10](outputs/hyperparameter_tuning_plot_thumb.jpg?raw=true) <br> **Screenshot 10** | ![11](outputs/epoch_analysis_plot_thumb.jpg?raw=true) <br> **Screenshot 11** | ![12](outputs/learning_curve_thumb.jpg?raw=true) <br> **Screenshot 12** |
 |:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
-| [🔍 View Full](screenshots/Image10.jpg?raw=true) | [🔍 View Full](screenshots/Image11.jpg?raw=true) | [🔍 View Full](screenshots/Image12.jpg?raw=true) |
+| [🔍 View Full](outputs/hyperparameter_tuning_plot.jpg?raw=true) | [🔍 View Full](outputs/epoch_analysis_plot.jpg?raw=true) | [🔍 View Full](outputs/learning_curve.jpg?raw=true) |
 
-| ![13](screenshots/Image13_thumb.jpg?raw=true) <br> **Screenshot 13** | ![14](screenshots/Image14_thumb.jpg?raw=true) <br> **Screenshot 14** | ![15](screenshots/Image15_thumb.jpg?raw=true) <br> **Screenshot 15** |
+| ![13](outputs/true_vs_predicted_thumb.jpg?raw=true) <br> **Screenshot 13** | ![14](outputs/error_distribution_thumb.jpg?raw=true) <br> **Screenshot 14** | 
 |:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
-| [🔍 View Full](screenshots/Image13.jpg?raw=true) | [🔍 View Full](screenshots/Image14.jpg?raw=true) | [🔍 View Full](screenshots/Image15.jpg?raw=true) |
+| [🔍 View Full](outputs/true_vs_predicted.jpg?raw=true) | [🔍 View Full](outputs/error_distribution.jpg?raw=true) |
 
-| ![16](screenshots/Image16_thumb.jpg?raw=true) <br> **Screenshot 16** | ![17](screenshots/Image17_thumb.jpg?raw=true) <br> **Screenshot 17** | ![18](screenshots/Image18_thumb.jpg?raw=true) <br> **Screenshot 18** |
-|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
-| [🔍 View Full](screenshots/Image16.jpg?raw=true) | [🔍 View Full](screenshots/Image17.jpg?raw=true) | [🔍 View Full](screenshots/Image18.jpg?raw=true) |
-
-| ![19](screenshots/Image19_thumb.jpg?raw=true) <br> **Screenshot 19** |  |  |
-|:------------------------------------------------------------------:|:--:|:--:|
-| [🔍 View Full](screenshots/Image19.jpg?raw=true) |  |  |
+|  |  |
 
 
 ## 🗂️ Project Structure
