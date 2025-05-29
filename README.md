@@ -63,17 +63,23 @@ This raw data is meticulously preprocessed and transformed into NumPy arrays (`t
 
 *Click on a thumbnail to view the full-size image.*
 
-| ![1](outputs/correlation_heatmap_thumb.png?raw=true) <br> **Screenshot 1** | ![2](outputs/floor_histogram_thumb.png?raw=true) <br> **Screenshot 2** | ![3](outputs/latitude_histogram_thumb.png?raw=true) <br> **Screenshot 3** |
-|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
-| [🔍 View Full](outputs/correlation_heatmap.png?raw=true) | [🔍 View Full](outputs/floor_histogram.png?raw=true) | [🔍 View Full](outputs/latitude_histogram.png?raw=true) |
+<p align="center">
+  <img src="outputs\correlation_heatmap.png" width="300"/>
+  <img src="outputs\floor_histogram.png" width="300"/>
+  <img src="outputs\latitude_histogram.png" width="300"/>
+  <img src="outputs\longitude_histogram.png" width="300"/>
+  <img src="outputs\price_distribution_after_outliers.png" width="300"/>
+  <img src="outputs\price_distribution_before_outliers.png" width="300"/>
+  <img src="outputs\rooms_histogram.png" width="300"/>
+  <img src="outputs\sq_histogram_thumb.png" width="300"/>
+  <img src="outputs\year_histogram_thumb.png" width="300"/>
+  <img src="outputs\hyperparameter_tuning_plot.png" width="300"/>
+  <img src="outputs\epoch_analysis_plot.png" width="300"/>
+  <img src="outputs\learning_curve.png" width="300"/>
+  <img src="outputs\true_vs_predicted.png" width="300"/>
+  <img src="outputs\error_distribution.png" width="300"/>
+</p>
 
-| ![4](outputs/longitude_histogram_thumb.png?raw=true) <br> **Screenshot 4** | ![5](outputs/price_distribution_after_outliers_thumb.png?raw=true) <br> **Screenshot 5** | ![6](outputs/price_distribution_before_outliers_thumb.png?raw=true) <br> **Screenshot 6** |
-|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
-| [🔍 View Full](outputs/longitude_histogram.png?raw=true) | [🔍 View Full](outputs/price_distribution_after_outliers.png?raw=true) | [🔍 View Full](outputs/price_distribution_before_outliers.png?raw=true) |
-
-| ![7](outputs/rooms_histogram_thumb.png?raw=true) <br> **Screenshot 7** | ![8](outputs/sq_histogram_thumb.png?raw=true) <br> **Screenshot 8** | ![9](outputs/year_histogram_thumb.png?raw=true) <br> **Screenshot 9** |
-|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
-| [🔍 View Full](outputs/rooms_histogram.png?raw=true) | [🔍 View Full](outputs/sq_histogram.png?raw=true) | [🔍 View Full](outputs/year_histogram.png?raw=true) |
 
 | ![10](outputs/hyperparameter_tuning_plot_thumb.png?raw=true) <br> **Screenshot 10** | ![11](outputs/epoch_analysis_plot_thumb.png?raw=true) <br> **Screenshot 11** | ![12](outputs/learning_curve_thumb.png?raw=true) <br> **Screenshot 12** |
 |:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
