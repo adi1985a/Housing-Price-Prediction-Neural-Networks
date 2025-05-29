@@ -81,16 +81,6 @@ This raw data is meticulously preprocessed and transformed into NumPy arrays (`t
 </p>
 
 
-| ![10](outputs/hyperparameter_tuning_plot_thumb.png?raw=true) <br> **Screenshot 10** | ![11](outputs/epoch_analysis_plot_thumb.png?raw=true) <br> **Screenshot 11** | ![12](outputs/learning_curve_thumb.png?raw=true) <br> **Screenshot 12** |
-|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
-| [🔍 View Full](outputs/hyperparameter_tuning_plot.png?raw=true) | [🔍 View Full](outputs/epoch_analysis_plot.png?raw=true) | [🔍 View Full](outputs/learning_curve.png?raw=true) |
-
-| ![13](outputs/true_vs_predicted_thumb.png?raw=true) <br> **Screenshot 13** | ![14](outputs/error_distribution_thumb.png?raw=true) <br> **Screenshot 14** | 
-|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|
-| [🔍 View Full](outputs/true_vs_predicted.png?raw=true) | [🔍 View Full](outputs/error_distribution.png?raw=true) |
-
-|  |  |
-
 
 ## 🗂️ Project Structure
 ```bash
