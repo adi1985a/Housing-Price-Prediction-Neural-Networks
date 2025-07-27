@@ -28,7 +28,12 @@ _Leveraging TensorFlow to accurately estimate property prices in Polish cities b
 
 ## 🎞️ Demo
 
-![Demo GIF](screenshots/1.gif)
+<br> 
+<p align="center">
+  <img src="screenshots/1.gif" width="90%">
+</p>
+<br>
+
 
 ---
 
@@ -64,21 +69,22 @@ This raw data is meticulously preprocessed and transformed into NumPy arrays (`t
 *Click on a thumbnail to view the full-size image.*
 
 <p align="center">
-  <img src="outputs\correlation_heatmap.png" width="300"/>
-  <img src="outputs\floor_histogram.png" width="300"/>
-  <img src="outputs\latitude_histogram.png" width="300"/>
-  <img src="outputs\longitude_histogram.png" width="300"/>
-  <img src="outputs\price_distribution_after_outliers.png" width="300"/>
-  <img src="outputs\price_distribution_before_outliers.png" width="300"/>
-  <img src="outputs\rooms_histogram.png" width="300"/>
-  <img src="outputs\sq_histogram_thumb.png" width="300"/>
-  <img src="outputs\year_histogram_thumb.png" width="300"/>
-  <img src="outputs\hyperparameter_tuning_plot.png" width="300"/>
-  <img src="outputs\epoch_analysis_plot.png" width="300"/>
-  <img src="outputs\learning_curve.png" width="300"/>
-  <img src="outputs\true_vs_predicted.png" width="300"/>
-  <img src="outputs\error_distribution.png" width="300"/>
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
+  <img src="screenshots\9.jpg" width="300"/>
+  <img src="screenshots\10.jpg" width="300"/>
+  <img src="screenshots\11.jpg" width="300"/>
+  <img src="screenshots\12.jpg" width="300"/>
+  <img src="screenshots\13.jpg" width="300"/>
+  <img src="screenshots\14.jpg" width="300"/>
 </p>
+
 
 
 
